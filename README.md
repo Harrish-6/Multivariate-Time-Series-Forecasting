@@ -5,7 +5,7 @@ This project implements Vector Autoregression (VAR) to forecast closing prices o
 
 **Overview**
 
-This project aims to forecast the closing prices of multiple stocks using multivariate time series analysis. By considering the interdependencies between different stocks, this approach can provide more accurate predictions compared to forecasting each stock individually.
+This project aims to forecast the closing prices of multiple stocks using multivariate time series analysis. By considering the interdependencies between different stocks, this approach can provide more reliable predictions compared to forecasting each stock individually.
 
 **Key Objectives**
 
